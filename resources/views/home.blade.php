@@ -9,11 +9,10 @@
         <div class="max-w-6xl mx-auto px-6 py-24 text-center">
             <span class="inline-block px-4 py-1 rounded-full bg-white/20 text-sm mb-6">Praktik Layouting Blade</span>
             <h1 class="text-4xl md:text-6xl font-extrabold leading-tight">
-                Satu Template,<br>Banyak Halaman
+                Mengenal saya lebih dekat
             </h1>
             <p class="mt-6 max-w-2xl mx-auto text-lg text-indigo-100">
-                Menu dan footer cukup ditulis sekali, lalu dipakai di semua halaman dengan
-                template inheritance milik Laravel Blade.
+                Temukan informasi tentang profil, perjalanan, dan hal-hal yang saya pelajari.
             </p>
             <div class="mt-10 flex flex-wrap justify-center gap-4">
                 <a href="/profile" class="px-6 py-3 rounded-xl bg-white text-indigo-600 font-semibold shadow-lg hover:scale-105 transition">Lihat Profil</a>
